@@ -36,7 +36,7 @@ Build a **content-based recommendation system** that, given a **short text descr
      - **Dataset**: Data sourced from kaggle [link](https://www.kaggle.com/datasets/inductiveanks/top-1000-imdb-movies-dataset)
      - **Setup**: Python version > 3.0 is required. This notebook runs on Google Colab (no local setup required). 
      - **Running**: To run the code, open the google collab, Upload the dataset to Google Colab using the file upload option.Then click  "Run all" to execute.
-     - **Output**: Each time you run and execute the code it gives you random recommenddation based movies.
+     - **Output**: Each time you run the code it gives you random recommenddation based movies.
     
      
 ## **Salary Expectations**
